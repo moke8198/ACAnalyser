@@ -1,0 +1,11 @@
+# PyInstaller artifacts
+/build/
+/dist/
+*.spec
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Database file (we want it created fresh)
+sim_data.db
